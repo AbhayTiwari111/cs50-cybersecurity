@@ -1,4 +1,4 @@
-Week 1 — Securing Accounts 🔐
+Week 0 — Securing Accounts 🔐
 CS50 Introduction to Cybersecurity — David Malan (Harvard)
 
 🔑 Core Concepts
