@@ -1,8 +1,5 @@
-# 🔐 CS50 Cybersecurity — Securing Systems
-
-> **Course:** CS50's Introduction to Cybersecurity  
-> **Instructor:** David J. Malan  
-> **Topic:** Securing Networked & Inter-networked Systems
+Week 3 — Securing System 🔐
+CS50 Introduction to Cybersecurity — David Malan (Harvard)
 
 ---
 
