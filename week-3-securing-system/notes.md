@@ -1,6 +1,7 @@
 Week 3 — Securing System 🔐
 CS50 Introduction to Cybersecurity — David Malan (Harvard)
-
+Week 3 — Securing Data 🔐
+CS50 Introduction to Cybersecurity — David Malan (Harvard)
 ---
 
 ## Table of Contents
