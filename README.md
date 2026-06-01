@@ -12,10 +12,10 @@ CS50's Introduction to Cybersecurity by Harvard University.
 | Week | Topic | Status |
 |------|-------|--------|
 | Week 0 | Security Mindset | ✅ Done |
-| Week 1 | Securing Accounts | 🔄 In Progress |
-| Week 2 | Securing Data | ⏳ Upcoming |
-| Week 3 | Securing Systems | ⏳ Upcoming |
-| Week 4 | Securing Software | ⏳ Upcoming |
+| Week 1 | Securing Accounts |  ✅ Done |
+| Week 2 | Securing Data |  ✅ Done |
+| Week 3 | Securing Systems |  ✅ Done |
+| Week 4 | Securing Software | 🔄 In Progress |
 | Week 5 | Preserving Privacy | ⏳ Upcoming |
 
 ## 🛠️ Topics Covered
