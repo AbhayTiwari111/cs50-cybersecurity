@@ -15,7 +15,7 @@ CS50's Introduction to Cybersecurity by Harvard University.
 | Week 1 | Securing Accounts |  ✅ Done |
 | Week 2 | Securing Data |  ✅ Done |
 | Week 3 | Securing Systems |  ✅ Done |
-| Week 4 | Securing Software | 🔄 In Progress|
+| Week 4 | Securing Software | ✅ Done |
 | Week 5 | Preserving Privacy | ⏳ Upcoming |
 
 ## 🛠️ Topics Covered
